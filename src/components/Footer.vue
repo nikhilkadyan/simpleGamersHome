@@ -1,8 +1,8 @@
 <template>
     <div class="footer_container">
         <div>
-            <h3 class="text-primary">
-                <i class="fa fa-info-circle" aria-hidden="true"></i>
+            <h3>
+                <i class="fa fa-info-circle text-primary" aria-hidden="true"></i>
                 For More Info Visit Our Community Page
             </h3>
 
@@ -11,7 +11,9 @@
             </a>
 
             <p class="mt-2">
-                Credits to Appy Builder For Source Code Of App Builder
+                <a href="http://appybuilder.com/" target="_blank">
+                    Credits to Appy Builder For Source Code Of App Builder
+                </a>
             </p>
 
             <hr>
