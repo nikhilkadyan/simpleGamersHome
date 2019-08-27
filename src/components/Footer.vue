@@ -10,7 +10,12 @@
                 <i class="fa fa-users" aria-hidden="true"></i> Community
             </a>
 
-            <p>
+            <p class="mt-2">
+                Credits to Appy Builder For Source Code Of App Builder
+            </p>
+
+            <hr>
+            <p class="me_credit">
                 Website Designed & Maintained by 
                 <a href="https://www.nikhilkadyan.com" target="_blank">
                     Nikhil Kadyan.
@@ -28,9 +33,9 @@
         align-items: center;
         text-align: center;
     }
-    .footer_container > div > p{
+    .footer_container > div > .me_credit{
         font-size: 0.8rem;
-        margin-top: 5vh;
-        margin-bottom: -5vh;
+        margin-top: 1vh;
+        margin-bottom: 0vh;
     }
 </style>
