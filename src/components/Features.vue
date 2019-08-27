@@ -76,8 +76,8 @@
 </style>
 
 <script>
-import featuresData from '../assets/data/features.json'
-import quoteData from '../assets/data/quote.json'
+import featuresData from '../static/data/features.json'
+import quoteData from '../static/data/quote.json'
 export default {
     data (){
         return{

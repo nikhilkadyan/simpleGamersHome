@@ -37,7 +37,7 @@
 </style>
 
 <script>
-import faqData from '../assets/data/faq.json'
+import faqData from '../static/data/faq.json'
 export default {
     data() {
         return{

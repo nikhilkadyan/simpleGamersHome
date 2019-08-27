@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Regular Updates",
+        "content": "We Release Patches Per Week and Major Updates Per Month. New Components are Added After Listening to Our Community.",
+        "icon": "fa fa-connectdevelop text-primary"
+    },
+    {
+        "name": "For the Community",
+        "content": "We Listen To Our Community And Take Suggestions Seriously. New Features Requested In the Community Are Added Into the Builder If Possible.",
+        "icon": "fa fa-comment  text-primary"
+    },
+    {
+        "name": "Easy & Fast Dev",
+        "content": "Develop Professional Apps In Just Minutes With SG Builder.Its Easy to Understand and Fast For Developement",
+        "icon": "fa fa-clock-o  text-primary"
+    }
+]
