@@ -4,6 +4,7 @@
         <Landing />
         <div class="margin_top_100"></div>
         <Features />
+        <Requirments />
         <Faq />
         <Footer />
 
@@ -25,16 +26,18 @@
 <script>
 import Landing from './components/Landing'
 import Features from './components/Features'
+import Requirments from './components/Requirments'
 import Faq from './components/Faq'
 import Footer from './components/Footer'
 
 export default {
     name: 'App',
     components: {
-        Landing: Landing,
-        Features: Features,
-        Faq: Faq,
-        Footer: Footer,
+        Landing,
+        Features,
+        Faq ,
+        Requirments,
+        Footer,
     }
 }
 </script>

@@ -6,7 +6,7 @@
                 F.A.Q.
             </span>
 
-{{ fetchedQnA }}
+            {{ fetchedQnA }}
             <div class="card mt-5" v-for="qna in qnas" :key="qna.question">
                 <div class="card-body">
                     <h2 class="card-title">
